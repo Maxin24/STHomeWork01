@@ -218,6 +218,7 @@ public class StudentManager {
         }
         if(!flag){
             System.out.println("未找到该学生");
+            System.out.println("");
         }
     }
 }
